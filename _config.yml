@@ -5,7 +5,7 @@ email: miguel-gonzalez@gmx.de
 description: > # this means to ignore newlines until "show_exerpts:"
   Miguel is a software engineer and indie game developer currently based in the UK.
   <br/>He occasionally blogs about software design, continuous integration and game development with Godot Engine.
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 5
 paginate_path: "/blog/page:num/"
