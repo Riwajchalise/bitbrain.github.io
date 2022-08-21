@@ -1,10 +1,10 @@
-title: bitbrain
+title: Prateekg147
 url: https://bitbrain.github.io
-author: bitbrain
-email: miguel-gonzalez@gmx.de
+author: Prateek Gianchandani
+email: prateek@damnvulnerableiosapp.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Miguel is a software engineer and indie game developer currently based in the UK.
-  <br/>He occasionally blogs about software design, continuous integration and game development with Godot Engine.
+  I am Prateek Gianchandani. Currently i am working as a Security Researcher in UAE. 
+  <br/>I have interests in Exploit Development, Mobile and Browser Security.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -25,27 +25,18 @@ dash:
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
   social_links:
-    - url: https://soundcloud.com/myrealityde
-      icon: soundcloud
-      color: orange
-    - url: https://twitter.com/bitbrain_
+    - url: https://twitter.com/prateekg147
       icon: twitter-square
       color: cyan
-    - url: https://bitbrain.itch.io
-      icon: itch-io
-      color: red
-    - url: https://www.twitch.tv/bitbrain_
-      icon: twitch
-      color: purple
-    - url: https://www.youtube.com/channel/UCZDjQltHRNiXIYXMBeLDleA
-      icon: youtube
-      color: red
-    - url: https://github.com/bitbrain
+    - url: https://www.linkedin.com
+      icon: linkedin-square
+      color: blue
+    - url: https://github.com/prateek147
       icon: github-square
       color: yellow
       
   avatar_source: local
-  avatar_path: /public/avatar.gif
+  avatar_path: https://pbs.twimg.com/profile_images/1244561732170899457/SRr3p2iV_400x400.jpg
 
 # Build settings
 theme: jekyll-dash
